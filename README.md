@@ -1,3 +1,3 @@
 # Selection Sort
 
-Selection Sort algorithm using Python, TypeScript, and Go
+Selection Sort algorithm using Python, TypeScript, Java, and Rust

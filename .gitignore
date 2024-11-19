@@ -1,0 +1,6 @@
+selection_sort_java/.idea
+selection_sort_java/out
+selection_sort_rust/target
+selection_sort_rust/src/main
+selection_sort_rust/Cargo.lock
+selection_sort_rust/Cargo.toml
